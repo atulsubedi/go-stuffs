@@ -2,7 +2,6 @@ package main
 
 import (
 	"context"
-
 	"github.com/atulsubedi/go-stuffs/rest-api/database"
 	"github.com/gofiber/fiber/v2"
 	"github.com/joho/godotenv"
